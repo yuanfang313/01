@@ -1,4 +1,4 @@
 # CIM690-Prototyping
 
-* [Sketch](/Sketches)
+* [Sketch](https://yuanfang313.github.io/CIM690-Prototyping/)
 
