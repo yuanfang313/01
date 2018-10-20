@@ -1,0 +1,58 @@
+body {
+  background: pink;
+  font-family: sans-serif;
+}
+
+h1 {
+  color: black;
+  font-family: 'Indie Flower', cursive;
+font-family: 'Lobster', cursive;
+}
+
+div {
+  background: teal;
+font-size: 33px;
+color: black;
+width: 300px;
+height: 300px;
+padding: 15px;
+border: 3px solid black;
+margin-top: 45px;
+margin-left: 50px;
+
+}
+
+/*  */
+.first-div {
+  background-image: url("../img/01.jpeg");
+  background-size: cover;
+}
+
+
+.first-div div:hover {
+  background-image: url("../img/01.jpeg");
+  cursor: zoom-in;
+
+}
+
+.rounded-div {
+  background-image: url("../img/03.jpeg");
+  background-size:cover;
+}
+
+.leftnav{
+list-style: none;
+}
+
+.leftnav li {
+padding: 10px;
+background: #ffcc00;
+border-bottom: 1px solid black;
+width: 300px;
+
+}
+
+.leftnav li:hover {
+  background: aqua;
+  cursor: pointer;
+}
